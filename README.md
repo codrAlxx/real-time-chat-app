@@ -87,4 +87,8 @@ nodemon ./socket/socket.js
 <p float="center">
 	<img src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot5.png" width="500">	
 	<img src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot11.png" width="500">
+	
+	<img src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot15.png" width="500">
+	
+	<img src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot13.png" width="500">
 </p>
