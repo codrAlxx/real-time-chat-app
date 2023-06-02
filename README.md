@@ -55,3 +55,28 @@ Live Chat application using Express, React, Node.js, Socket io, and MongoDB alon
 
 -Error Handle
 
+## Setting up the project and Installation
+
+Install the dependencies to get started using npm
+```sh
+npm install
+```
+Run the Frontend server
+```sh
+cd ./frontend
+npm start 
+```
+Run the Backend server
+```sh 
+nodemon ./backend/server.js
+```
+Or optionally run frontend backend concurrently
+```sh 
+npm run dev
+```
+Start the Socket server
+```sh
+nodemon ./socket/socket.js
+```
+
+
