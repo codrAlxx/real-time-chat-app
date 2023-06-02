@@ -84,12 +84,7 @@ Start the Socket server
 nodemon ./socket/socket.js
 ```
 
-<img
-  src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot5.png"
-  alt="Screenshor"
-  style="margin: 0 auto; width: 100px">
-
-<img
-  src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot11.png"
-  alt="Screenshor"
-  style="margin: 0 auto; width: 100px">
+<p float="center">
+	<img src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot5.png" width="300">	
+	<img src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot11.png" width="300">
+</p>
