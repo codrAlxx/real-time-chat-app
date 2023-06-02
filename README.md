@@ -70,7 +70,7 @@ Run the Backend server
 ```sh 
 nodemon ./backend/server.js
 ```
-Or optionally run frontend backend concurrently
+Or optionally run frontend and backend concurrently
 ```sh 
 npm run dev
 ```
