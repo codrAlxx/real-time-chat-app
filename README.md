@@ -87,9 +87,9 @@ nodemon ./socket/socket.js
 <img
   src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot5.png"
   alt="Screenshor"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; width: 100px">
 
 <img
   src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot11.png"
   alt="Screenshor"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; width: 100px">
