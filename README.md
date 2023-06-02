@@ -1,4 +1,4 @@
-![bd]()
+![bd](![Uploading Screenshot 2023-06-02 at 10.20.03 PM.png…]())
 # Real-Time Chat Application Project
 Live Chat application using Express, React, Node.js, Socket io, and MongoDB along with ES6+. 
 
@@ -16,7 +16,7 @@ Live Chat application using Express, React, Node.js, Socket io, and MongoDB alon
 
 ## Features✨
 
--Design Login and Register Page
+-Login and Register Page
 
 -Create State and Register Page Handle
 
