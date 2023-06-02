@@ -1,5 +1,5 @@
 <img
-  src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot22.png"
+  src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot23.png"
   alt="Screenshor"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
