@@ -1,4 +1,4 @@
-[![YouTube Video](https://asset.cloudinary.com/dsw2tkyc8/b9c150c9531346d477cf97e0c6b0c83d)](https://www.youtube.com/watch?v=ANxQvAIdGc0")
+[![YouTube Video](https://res.cloudinary.com/dsw2tkyc8/image/upload/v1695206959/RTSFront_ryqqjh.png)](https://www.youtube.com/watch?v=ANxQvAIdGc0")
 
 # Real-Time Chat Application Project
 Live Chat application using Express, React, Node.js, Socket io, and MongoDB along with ES6+. 
