@@ -1,5 +1,4 @@
 [![YouTube Video](https://res.cloudinary.com/dsw2tkyc8/image/upload/v1695206959/RTSFront_ryqqjh.png)](https://www.youtube.com/watch?v=ANxQvAIdGc0")
-
 # Real-Time Chat Application Project
 Live Chat application using Express, React, Node.js, Socket io, and MongoDB along with ES6+. 
 
@@ -56,7 +55,7 @@ Live Chat application using Express, React, Node.js, Socket io, and MongoDB alon
 -Setup Theme and Friend Search Option
 
 -Error Handle
-
+<img width="1710" alt="RTS" src="https://github.com/codrAlxx/real-time-chat-app/assets/56028723/d43bf7af-3a4e-40d4-8e82-4f7cccad07d6">
 ## Setting up the project and Installation
 
 Install the dependencies to get started using npm
