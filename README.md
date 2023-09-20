@@ -1,7 +1,4 @@
-<img
-  src="https://github.com/codrAlxx/real-time-chat-app/blob/main/frontend/public/image/ScreenShot23.png"
-  alt="Screenshor"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+[![YouTube Video](https://asset.cloudinary.com/dsw2tkyc8/b9c150c9531346d477cf97e0c6b0c83d)](https://www.youtube.com/watch?v=ANxQvAIdGc0")
 
 # Real-Time Chat Application Project
 Live Chat application using Express, React, Node.js, Socket io, and MongoDB along with ES6+. 
