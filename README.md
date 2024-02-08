@@ -1,5 +1,5 @@
 [![YouTube Video](https://res.cloudinary.com/dsw2tkyc8/image/upload/v1695206959/RTSFront_ryqqjh.png)](https://www.youtube.com/watch?v=ANxQvAIdGc0")
-# BlazeChat🚀
+# Talk Buddy🚀
 Live Chat application using Express, React, Node.js, Socket io, and MongoDB along with ES6+. 
 
 ✨Building backend API with Node.js & Express
